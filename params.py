@@ -1,0 +1,11 @@
+# Parameters for model training
+
+HID_DIM = 256
+ENC_LAYERS = 3
+DEC_LAYERS = 3
+ENC_HEADS = 16
+DEC_HEADS = 16
+ENC_PF_DIM = 512
+DEC_PF_DIM = 512
+ENC_DROPOUT = 0.1
+DEC_DROPOUT = 0.1
